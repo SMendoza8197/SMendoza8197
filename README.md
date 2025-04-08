@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://linkedin.com/in/Jose](https://www.linkedin.com/in/jose-mendoza-santos-2b0710359/)
+[linkedin]: [https://www.linkedin.com/in/jose-mendoza-santos-2b0710359/)
