@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>  
   - [Creating a Resoruce group & Deleting in Azure](https://github.com/SMendoza8197/ResourceGroupLab)
+  - [Creating a Virtual Machine in Azure](https://github.com/SMendoza8197/VirtualMachineLab/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
