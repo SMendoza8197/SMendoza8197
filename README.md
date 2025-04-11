@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>  
-  - [Creating A Resoruce group & Storage Account in Azure]
+  - [Creating a Resoruce group & Deleting in Azure](https://github.com/SMendoza8197/ResourceGroupLab)
 
 <h2>🤳Connect with me:</h2>
 
