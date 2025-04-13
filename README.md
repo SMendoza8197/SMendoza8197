@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Creating A Anget Account]
+  - [osTicket: Creating A Agent Account]
   - [osTicket: Post-Installation Configuration]
   - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure</b>  
