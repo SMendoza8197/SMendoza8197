@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [osTicket: Creating A Anget Account]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure</b>  
   - [Creating a Resoruce group & Deleting in Azure](https://github.com/SMendoza8197/ResourceGroupLab)
   - [Creating a Virtual Machine in Azure](https://github.com/SMendoza8197/VirtualMachineLab/blob/main/README.md)
