@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Creating An Agent Account](https://github.com/SMendoza8197/osticket-AgentCreation)
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
+  - [osTicket: Working A Ticket In Help Desk](https://github.com/SMendoza8197/osTicket-HelpDesk/blob/main/README.md)
+  - [osTicket: Closing A Ticket As An Agent]
 - <b>Microsoft Azure</b>  
   - [Creating a Resoruce group & Deleting in Azure](https://github.com/SMendoza8197/ResourceGroupLab)
   - [Creating a Virtual Machine in Azure](https://github.com/SMendoza8197/VirtualMachineLab/blob/main/README.md)
