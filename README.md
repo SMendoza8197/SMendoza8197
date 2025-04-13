@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Creating An Agent Account]
+  - [osTicket: Creating An Agent Account](https://github.com/SMendoza8197/osticket-AgentCreation)
   - [osTicket: Post-Installation Configuration]
   - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure</b>  
